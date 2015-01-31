@@ -1,0 +1,1 @@
+Template for x86 assembly function procedure
