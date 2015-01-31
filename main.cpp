@@ -9,5 +9,8 @@ int main() {
     int b = my_sub(3, 2);
     printf("sub result: %d\n", b);
 
+    int c = my_div_signed(10, 4);
+    printf("div result: %d\n", c);
+
     return 0;
 }

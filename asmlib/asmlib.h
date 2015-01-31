@@ -7,6 +7,7 @@ extern "C" {
 
 int my_add(int x, int y);
 int my_sub(int x, int y);
+int my_div_signed(int x, int y);
 
 #ifdef __cplusplus
 }
